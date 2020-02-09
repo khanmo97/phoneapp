@@ -5,8 +5,8 @@ from twilio.rest import TwilioRestClient
 # and use the E.164 format, for example: "+12025551234"
 TWILIO_PHONE_NUMBER = "+19722993163"
 
-# list of one or more phone numbers to dial, in "+19732644210" format
-DIAL_NUMBERS = ["+19407038986", "+971504214836"]
+# list of one or more phone numbers to dial, in "+19732644210" format maji num: "+971504214836"
+DIAL_NUMBERS = ["+19407038986"]
 
 # URL location of TwiML instructions for how to handle the phone call
 TWIML_INSTRUCTIONS_URL = \
