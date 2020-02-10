@@ -1,4 +1,4 @@
-#!/home/mohammed/phoneapp/bin/python
+#!/home/khan/Documents/phoneapp/phoneapp/bin/python
 
 import sys
 import getopt
